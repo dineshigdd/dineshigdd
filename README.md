@@ -7,7 +7,7 @@ Full-Stack Developer
 I hold a B.Sc. in Software Development from Western Governors University (2019) and an Associate's degree in Computer Science from Los Angeles Valley College (LAVC), where I developed a solid foundation in computer science and software engineering principles. While my current hands-on experience leans more toward frontend development, my analytical mindset naturally draws me to the complexity and logic of backend systems. I'm committed to backend development and thrive on the challenge of building efficient, scalable, and reliable systems. I'm seeking a role where I can deepen my backend expertise, contribute to impactful projects, and evolve into a backend specialist who delivers lasting technical value
 
 *   🌍  I'm based in Los Angeles
-*   🖥️  See my portfolio at [My Portfolio](http://damindadinesh.netlify.app/)
+*   🖥️  See my portfolio at [My Portfolio](https://dineshigdd.github.io/)
 *   ✉️  You can contact me at [dineshigdd@gmail.com](mailto:dineshigdd@gmail.com)
 *   🚀  I'm currently working on [My portfolio and other personal projects](http://damindadinesh.netlify.app/)
 *   🧠  I'm learning Next.js, Tailwind CSS, PostgreSQL, Python, AWS
