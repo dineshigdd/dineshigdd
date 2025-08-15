@@ -9,7 +9,7 @@ I hold a B.Sc. in Software Development from Western Governors University (2019) 
 *   🌍  I'm based in Los Angeles
 *   🖥️  See my portfolio at [My Portfolio](https://dineshigdd.github.io/)
 *   ✉️  You can contact me at [dineshigdd@gmail.com](mailto:dineshigdd@gmail.com)
-*   🚀  I'm currently working on [My portfolio and other personal projects](http://damindadinesh.netlify.app/)
+*   🚀  I'm currently working on [My portfolio and other personal projects](https://dineshigdd.github.io/)
 *   🧠  I'm learning Next.js, Tailwind CSS, PostgreSQL, Python, AWS
 *   🤝  I'm open to collaborating on private closed-source projects, open-source projects, volunteer projects, and internship opportunities
 *   ⚡  I also like the financial sector: personnel finance and investments
